@@ -1,16 +1,89 @@
-# React + Vite
+# TCONGS INFOTECH - Homepage Redesign
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive homepage redesign built as part of the **TCONGS INFOTECH Frontend Internship Assignment**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+> Add your Vercel URL here after deployment.
 
-## React Compiler
+Example:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://tcongs-redesign.vercel.app
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+
+> Add screenshots after deployment.
+
+---
+
+## ✨ Features
+
+- Modern and responsive homepage
+- Clean UI/UX
+- Component-based React architecture
+- Smooth animations with Framer Motion
+- Mobile-first responsive design
+- Reusable components
+- Optimized layout
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+- React Icons
+
+---
+
+## 📂 Folder Structure
+
+```text
+src
+│
+├── assets
+├── components
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── Services.jsx
+│   ├── About.jsx
+│   ├── WhyChoose.jsx
+│   ├── Process.jsx
+│   ├── Testimonials.jsx
+│   ├── CTA.jsx
+│   └── Footer.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/chaitanyaB12/tcong_Task.git
+
+cd tcong_Task
+
+npm install
+
+npm run dev
+```
+
+## 📦 Production Build
+
+```bash
+npm run build
+```
+
+## 👨‍💻 Author
+
+**Chaitanya**
+
+- Portfolio: https://chaitanyab.vercel.app/
+- GitHub: https://github.com/chaitanyaB12
