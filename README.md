@@ -12,19 +12,19 @@ https://tcong-task.vercel.app
 
 ### Hero Section
 
-![Hero](./screenshots/hero.png)
+![Hero](./Screenshots/Hero.png)
 
 ### Services
 
-![Services](./screenshots/services.png)
+![Services](./Screenshots/Services.png)
 
 ### About
 
-![About](./screenshots/about.png)
+![About](./Screenshots/About.png)
 
 ### Footer
 
-![Footer](./screenshots/footer.png)
+![Footer](./Screenshots/Footer.png)
 
 ---
 
