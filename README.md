@@ -4,17 +4,27 @@ A modern, responsive homepage redesign built as part of the **TCONGS INFOTECH Fr
 
 ## 🚀 Live Demo
 
-> Add your Vercel URL here after deployment.
-
-Example:
-
-https://tcongs-redesign.vercel.app
+https://tcong-task.vercel.app
 
 ---
 
 ## 📸 Preview
 
-> Add screenshots after deployment.
+### Hero Section
+
+![Hero](./screenshots/hero.png)
+
+### Services
+
+![Services](./screenshots/services.png)
+
+### About
+
+![About](./screenshots/about.png)
+
+### Footer
+
+![Footer](./screenshots/footer.png)
 
 ---
 
